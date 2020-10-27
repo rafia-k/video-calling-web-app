@@ -1,0 +1,24 @@
+body {
+    background-color: aquamarine;
+}
+
+.main-body {
+    width: 50%;
+    padding: 8% 0 0;
+    margin: auto;
+}
+
+.vertical-center {
+    position: relative;
+    z-index: 1;
+    background-color: white;
+    max-width: 50%;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+}
+
+.submit_btn {
+    margin: auto;
+    width: 40%;
+}
